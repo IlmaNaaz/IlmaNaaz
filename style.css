@@ -1,0 +1,56 @@
+
+h2{
+    
+    font-size: 90px;
+}
+p{
+    
+    font-size: 40px;
+   
+    text-transform: lowercase;
+   
+}
+li
+{
+    color: brown;
+    
+}
+h2,p,list{
+    font-family: sans-serif;
+    color: #1098ad;
+}
+footer p{
+    color:rgb(28, 28, 178);
+}
+.main-header{
+ background-color: aquamarine;
+}
+/* body{
+    background-color: blue;
+} */
+a:link{
+color:aquamarine;
+}
+a:visited{
+    color:blue
+}
+a:hover{
+    color:orangered;
+}
+a:active{
+    text-decoration: underline orangered;
+}
+footer p{
+    color:#1098ad;
+    background-color: black;
+}
+p{
+    color:rgb(173, 119, 128);
+    background-color: black;
+    font-size:50px;
+}
+.test{
+font-size:large;
+}
+
+

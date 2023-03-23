@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(0, 0, 0, 0.797);
+}
+h3{
+    font-size: 40px;
+    color:rgb(200, 67, 19);
+}
+p{
+    font-size: 25px;
+    color: rgb(161, 118, 62);
+    padding-top: 1px;
+}
+.edu-details{
+    font-size: 25px;
+    color: rgb(200, 27, 122);
+}
+li{
+    font-size: 15px;
+    color: whitesmoke;
+}
